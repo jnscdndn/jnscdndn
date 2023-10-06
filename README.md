@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jyotiranjan Sankhua</h1>
+<h1 align="center">Hi 👋, </h1>
+<h1 align="center">I'm Jyotiranjan!</h1>
 <h3 align="center">A passionate web developer and a data analytics from India</h3>
-<img align="center" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<div align="center">
+  <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" width="300" height="250" style="border-radius: 50%;">
+</div>
 - 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **jyoti.sankhua@gmail.com**

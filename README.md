@@ -13,6 +13,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://linkedin.com/in/jyotiranjan-sankhua-b96ba6229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyotiranjan sankhua" height="30" width="40" /></a>
+  <a href="https://twitter.com/Jyoti__ranjan_" target="_blank" rel="noreferrer"> 
+  <img src="https://path-to-your-twitter-icon" alt="Twitter" width="40" height="40"/> 
+</a>
 <a href="https://instagram.com/jyoti___ranjan__?igshid=MzMyNGUyNmU2YQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jyoti_ranjan" height="30" width="40" /></a>
 </p>
 

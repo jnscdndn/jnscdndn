@@ -1,9 +1,9 @@
 
+<img align="center" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="280" height="280" />
 <h1 align="left">
   <div align="center" style="font-size:26; display:inline;">Hi 👋!</div> 
   <span style="font-size:20px;">I'm Jyotiranjan Sankhua, an MCA Student and Developer from Odisha</span>
 </h1>
-  <img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="380" height="380" />
 
 I'm passionate about building impactful software solutions and exploring new technologies. Here’s a bit about me:
 
@@ -70,8 +70,9 @@ services
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jyotiranjan-sankhua"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="jyoti.sankhua@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
- 
+ <a href="mailto:jyoti.sankhua@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
 </div>
 <div align='center'>
 <img  src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="280" height="280" />

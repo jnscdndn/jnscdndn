@@ -1,5 +1,6 @@
-
-<img align="center" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="280" height="280" />
+<div align="center">
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="280" height="280" />
+</div>
 <h1 align="left">
   <div align="center" style="font-size:26; display:inline;">Hi 👋!</div> 
   <span style="font-size:20px;">I'm Jyotiranjan Sankhua, an MCA Student and Developer from Odisha</span>
